@@ -11,7 +11,7 @@ Personal portfolio website built with HTML, SCSS, and JavaScript.
 - JavaScript
 
 ## Features
-* Responsive layout
+* Responsive layout with clamp
 * Typing animation
 * Scroll animations
 * Project showcase
