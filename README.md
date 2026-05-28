@@ -6,7 +6,7 @@ Personal portfolio website built with HTML, SCSS, and JavaScript.
 [View Website](https://kenniebomanfhs.github.io/Slutprojekt/)
 
 ## Built With
-- HTML5
+- HTML
 - SCSS / CSS
 - JavaScript
 
